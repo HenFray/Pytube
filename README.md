@@ -13,4 +13,6 @@ $ python YT_Download.py
 <li>Insert video URL</li>
 
 <li>Choice itag that corresponds to the resolution you want to download</li>
+
+<li>Congratulations! you already have your video downloaded in the same folder</li>
 </ul>

@@ -4,11 +4,13 @@
 
 <h2>Use</h2>
 
-Just in terminal
+<ul>
+<li>Just in terminal</li>
 
 ```python
 $ python YT_Download.py
 ```
-Insert video url
+<li>Insert video URL</li>
 
-Choice itag that corresponds to the resolution you want to download
+<li>Choice itag that corresponds to the resolution you want to download</li>
+</ul>
